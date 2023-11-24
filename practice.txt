@@ -1,1 +1,1 @@
-Local to Remote using vscode practice in sample test
+Local to Remote using vscode practice without terminal
